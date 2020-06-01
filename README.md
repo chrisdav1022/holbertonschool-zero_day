@@ -1,1 +1,2 @@
-README# holbertonschool-zero_day
+README
+![Scheme] (Vc.jpg)
