@@ -1,2 +1,2 @@
 README
-![N|Solid](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevmagazine.co%2Fventajas-y-desventajas-de-programar-en-lenguaje-c%2F2003%2F&psig=AOvVaw27z4GUiM3mGwmATjqvFnsJ&ust=1591118227966000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi9_L2Y4ekCFQAAAAAdAAAAABAD)
+![N|Solid](https://devmagazine.co/wp-content/uploads/2018/07/Ventajas-y-desventajas-de-programar-en-lenguaje-C-2.jpg)
